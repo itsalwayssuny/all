@@ -1,2 +1,4 @@
-print("all");
-print("raviraj");
+
+print("all")
+print("Sumit")
+
